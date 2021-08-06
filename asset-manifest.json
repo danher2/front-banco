@@ -1,23 +1,20 @@
 {
   "files": {
     "main.css": "/front-banco/static/css/main.bb095a8b.chunk.css",
-    "main.js": "/front-banco/static/js/main.4d607398.chunk.js",
-    "main.js.map": "/front-banco/static/js/main.4d607398.chunk.js.map",
+    "main.js": "/front-banco/static/js/main.2a8b601b.chunk.js",
+    "main.js.map": "/front-banco/static/js/main.2a8b601b.chunk.js.map",
     "runtime-main.js": "/front-banco/static/js/runtime-main.e7db29ec.js",
     "runtime-main.js.map": "/front-banco/static/js/runtime-main.e7db29ec.js.map",
-    "static/css/2.4be38407.chunk.css": "/front-banco/static/css/2.4be38407.chunk.css",
-    "static/js/2.aeae3d20.chunk.js": "/front-banco/static/js/2.aeae3d20.chunk.js",
-    "static/js/2.aeae3d20.chunk.js.map": "/front-banco/static/js/2.aeae3d20.chunk.js.map",
+    "static/js/2.8f9fa177.chunk.js": "/front-banco/static/js/2.8f9fa177.chunk.js",
+    "static/js/2.8f9fa177.chunk.js.map": "/front-banco/static/js/2.8f9fa177.chunk.js.map",
     "index.html": "/front-banco/index.html",
-    "static/css/2.4be38407.chunk.css.map": "/front-banco/static/css/2.4be38407.chunk.css.map",
     "static/css/main.bb095a8b.chunk.css.map": "/front-banco/static/css/main.bb095a8b.chunk.css.map",
-    "static/js/2.aeae3d20.chunk.js.LICENSE.txt": "/front-banco/static/js/2.aeae3d20.chunk.js.LICENSE.txt"
+    "static/js/2.8f9fa177.chunk.js.LICENSE.txt": "/front-banco/static/js/2.8f9fa177.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e7db29ec.js",
-    "static/css/2.4be38407.chunk.css",
-    "static/js/2.aeae3d20.chunk.js",
+    "static/js/2.8f9fa177.chunk.js",
     "static/css/main.bb095a8b.chunk.css",
-    "static/js/main.4d607398.chunk.js"
+    "static/js/main.2a8b601b.chunk.js"
   ]
 }
