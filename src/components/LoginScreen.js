@@ -2,14 +2,11 @@ import React from 'react';
 import './Login.css';
 
 
-export const LoginScreen = () => {
+const LoginScreen = () => {
     return (
-
-        <>
+    <>
             <h3 className="auth__title text-center">Welcome</h3>
-
             <form > {/**onSubmit manda un evento */}
-
                 <input
                     type="text"
                     placeholder="Emaiil"
@@ -26,16 +23,14 @@ export const LoginScreen = () => {
 
                 />
 
-
                 <button
                     type="submit"
                     className="btn btn-primary btn-block"
 
                 >Login</button>
-            
             </form>
-
         </>
-
     )
 }
+
+export default LoginScreen;
